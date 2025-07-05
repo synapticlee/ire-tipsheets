@@ -1,0 +1,1555 @@
+{
+  "total": 150,
+  "updated": "July 3",
+  "sessions": [
+    {
+      "day": "Thursday",
+      "data": [
+        {
+          "session_title": "Broadcast track: 30 story ideas that work in any market",
+          "speakers": "Dan Krauth, WABC-TV; Cierra Putman, WTHR; Mallory Sofastaii, WMAR-2 News Baltimore; Katie Wilcox, 12News",
+          "description": "Where to search for stories in your market - tried and true, in-depth and quick turn, with consumer ideas too.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31500.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/spreadsheets/d/1AmCqxD1jnd6xs-8UDYctMNyRMf3N8vxfTRy7VhNDmrY/edit?usp=sharing"
+            }
+          ]
+        },
+        {
+          "session_title": "Climate on the record: Crafting investigations with legal documents",
+          "speakers": "Audrey Brown, San Francisco Public Press; Nina Elkadi, Sentient; Jennifer Hijazi, Bloomberg Law; Luis Joel Méndez González, Centro de Periodismo Investigativo",
+          "description": "Covering the story of the climate crisis is so much more than chasing heat waves, oil spills, and sea level rise. Often, the most crucial stories about global warming and its effects on communities are embedded in dockets, spreadsheets, permits, and financial records. This panel will explore how to harness records, legal documents, and data to tell off-the-beaten-path climate stories.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31503.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "How nonprofit foundations are funding local investigative journalism",
+          "speakers": "Vanessa Bechtel, Ventura County Community Foundation; Tony Biasotti, Ventura County Star; Mauricio Palma, Silicon Valley Community Foundation; Tracie Powell, The Pivot Fund",
+          "description": "How does a newsroom with only eight news reporters have a two-person dedicated investigative team? Are nonprofit foundations, even those that don't typically fund journalism, the answer to dwindling revenue and corporate support for investigative reporting? Can this funding model succeed in communities without deep-pocketed donors and foundations? We will tackle these questions and more with a panel that includes journalists as well as representatives of foundations both large and small that are on the cutting edge of nonprofit funding of investigative journalism.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31506.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1Beus6jDr1Uk9JJh1EGJEtfKDjhxfJgC-nZfyCFvGPwc/edit?slide=id.p#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "How to use Census data to power your stories — from quick turns to investigations",
+          "speakers": "Susie Neilson, The San Francisco Chronicle",
+          "description": "Have you ever wondered how many people in your county make $100,000 or more per year? How about the number of people who were born in Ukraine, or the neighborhood with the largest number of Black homeowners? In this hands-on session, you will learn how to answer these types of questions by downloading and analyzing data from data.census.gov, the official web platform of the U.S. Census Bureau that houses its most popular surveys and programs. You’ll come away with a new skill you can use on a wide range of stories, from quick turnarounds to deep-dive investigations. Best of all: no coding required. \n\nThis session is good for: all levels of experience. Attendees will need to bring their own laptops (preferably no tablets) for the training.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1dftMTGitSeU7_kd9qdKq5aZmjCXpmFnCFMyouq80cFw/edit?slide=id.p#slide=id.p"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1f5WO_UTtUvASFQtTJe7y70_bJ1TMAk2EyqWr0ery3ik/edit?usp=sharing&urp=gmail_link"
+            }
+          ]
+        },
+        {
+          "session_title": "Investigating the wild world of sports",
+          "speakers": "Kenny Jacoby, USA TODAY; David Purdum & Elaine Teng, ESPN; Yami Virgin, KABB WOAI",
+          "description": "From sports betting to labor disputes and corruption, the sports world is ripe for investigation. Come to this panel to hear from journalists who have covered a wide range of topics in the sector to learn how to turn your investigative lens to this industry.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31501.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Investigative reporting in rural America",
+          "speakers": "Ilana Newman, The Daily Yonder; Molly Parker, Southern Illinois; Julia Rendleman, Southern Illinois University",
+          "description": "Rural communities across the country are shrinking, but what happens when a place nearly empties out? Over the past year, we’ve focused our reporting in Alexander County, Illinois, at the confluence of the Ohio and Mississippi rivers—a place The Wall Street Journal declared the fastest-shrinking in America after the 2020 Census. But it’s not alone. Much of rural America is at a crossroads, caught between economic struggles and political uncertainty, trying to figure out how to survive while pushing back against national narratives that often miss the full picture.\n\nThis session will challenge the idea that rural places are just sad, dying communities. We’ll talk about how to highlight voices of strength and resilience while also tackling the policies shaping these places in unique ways. Some issues, like food deserts and child care, hit both urban and rural areas, but the challenges are steeper when funding is limited and people and resources are more spread out.\n\nWe’ll also dig into underreported issues—farming, forestry, and the role of education from preschool to universities—that serve as lifelines for rural communities. And we’ll look at what’s at stake with policy shifts under a second Trump administration. Just as important, we’ll talk about how to cover all of this with the balance and nuance rural people deserve. That includes working with student reporters and regional universities to help fill news deserts, and how big media companies can partner with local reporters to move beyond clichés and get a real understanding of rural life on the inside.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31504.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Records for covering education, and overcoming FERPA denials",
+          "speakers": "David  Cuillier & Sydney Sims, University of Florida / Brechner Freedom of Information Project; Matt Topic, Loevy + Loevy; Patrick Wall, The Times-Picayune | Advocate",
+          "description": "This session provides great records for investigating K-12 and higher education – some classics and some you might not have run across. Then, experts provide tips for wrangling them out of officials’ grubbies by overcoming common denials, particularly FERPA.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31502.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31063.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Reflecting on 50 years of investigations",
+          "speakers": "Brant Houston, University of Illinois at Urba; Jim Neff, Oregon Journalism Project; Cheryl Phillips, Big Local News at Stanford University; Lea Thompson, Retired - NBC News ; Cheryl W. Thompson, NPR",
+          "description": "Join us for a thought-provoking conversation that celebrates IRE and the evolution of investigative journalism over the past five decades. This session will explore key themes such as the dynamics of the reporter-editor relationship, the impact of collaborative projects across multiple newsrooms, and the growing role of university and international partnerships in investigative work. Panelists will share their insights on how these collaborations have enriched journalism and enhanced the quality of investigations. Attendees can expect a rich discussion filled with valuable lessons, historical perspectives, and visions for the future of investigative reporting.",
+          "datetime": "2025-06-19T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31505.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: How to get investigative content / I-team on air more without diluting your brand",
+          "speakers": "Lindsey Basye, Atlanta News First - WANF; Natalia Martinez, GRAY TV; Julie Watts, CBS News California",
+          "description": "",
+          "datetime": "2025-06-19T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31507.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Filing a better FOIA request",
+          "speakers": "Josh Eidelson, Bloomberg News; Marta Jewson, The Lens; Suzy Khimm, NBC News",
+          "description": "This workshop will show you how to increase your chances of receiving records that reveal significant new information to help advance your story.\n\nWho and what can help identify the records you should ask for in the first place? And how can you make it more likely that you’ll receive a useful response? We will look at strategies for formulating and following up on public records requests — treating them as a distinct reporting task, often requiring interviews and other digging to help pinpoint what records could be most helpful to ask for, and relationship-building to successfully shake them loose. We will also examine how to make the most of records that you receive to help find more stories and potential sources – people can lead us to records, and records can lead us to people.",
+          "datetime": "2025-06-19T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31510.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31060.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "From the outside, looking in: Covering communities and topics you are not part of",
+          "speakers": "Natalia Alamdari, Flatwater Free Press; Hannah  Critchfield, Tampa Bay Times; Albert Serna, Los Angeles Center for Investigative Journalism; Connor Sheets, The Los Angeles Times; Omar Waheed, Madison365",
+          "description": "Investigative reporters are often asked to cover topics that impact or intersect with communities they are not part of. So, how do you build trust, report equitably, and communicate sincerely about your desire to help? This panel discussion will go over ways to connect with communities to build trust, cultivate sources and create open lines of communication.",
+          "datetime": "2025-06-19T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31514.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Investigations following breaking news",
+          "speakers": "Joey Flechas, The Boston Globe; Mauricio Peña, Borderless Magazine; Anne Ryman, ABC15 Arizona; Walter Smith Randolph, CBS News New York",
+          "description": "The best investigations deftly combine narrative in the \"day two\" story after breaking news as more information may trickle out. We chat about using the tools of storytelling to make people and policymakers care about harms, wrongdoing and matters of accountability. We'll give an overview of how to report, write, structure and edit the story in the days and weeks after news breaks and unpack the challenges that even longtime reporters and editors struggle with along the way.",
+          "datetime": "2025-06-19T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31511.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31055.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Managing the investigation",
+          "speakers": "Cindy Galli, Independent journalist; Andrea Gallo, The Times-Picayune | The Advocate; Kevin Keeshan, NBC Universal Local; Michael Sallah, Pittsburgh Post-Gazette",
+          "description": "Editing a data-driven or investigative story comes with its own challenges. We'll talk about how to manage quick-turn and enterprise projects. Topics include vetting ideas, time management and keeping channels of communication open inside the newsroom. We'll also look at a litmus test for whether a story is worth further investigation.",
+          "datetime": "2025-06-19T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31512.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Pitching a great investigative project",
+          "speakers": "Nicole Dungca, The Washington Post; Matt Krupnick, Independent journalist; Brian Rosenthal, The New York Times; Brad Schrade, The Atlanta Journal-Constitution; Claudia Vargas, NBC10 Philadelphia",
+          "description": "The most important step in launching an investigation is focusing on the idea. What do you investigate?  How do you get there?\nWhat are the best ways to vet an idea?\nThere is both a how to:  what is the process organizations  use to brainstorm or pitch investigative proposals and\nhow do they evaluate ideas to move ahead with the best:",
+          "datetime": "2025-06-19T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31513.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/202506219-31043.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "What is (and isn't) a good fit for AI-assisted journalism?",
+          "speakers": "Juliana Castro Varón, New York Times; Dylan Freedman, The New York Times",
+          "description": "This session details how the New York Times A.I. Initiatives team integrates product design, machine learning, and editorial expertise to help create stories with A.I. and build tools for investigative journalism. We will present real-world examples of how the industry uses machine learning in investigative reporting, demonstrate our tools, and help reporters triage what is a good fit for A.I. – and what isn't. The presentation will conclude with an open discussion.",
+          "datetime": "2025-06-19T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31508.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Are you afraid of the AI?",
+          "speakers": "Marissa Evans, Investigative Project on Race and Equity; Mark Greenblatt, Howard Center for Investigative Journalism, Arizona State University; Liz Lucas, Missouri School of Journalism",
+          "description": "Artificial intelligence –– for better or worse –– is here to stay and its influence on newsgathering, news cycles, and the future of journalism is only growing. This panel will focus on helping journalists understand AI 101 and the opportunities that AI is creating for journalists. This is a no holds barred, no dumb questions discussion that features journalists who are creating and building projects using AI and using it to make their jobs easier.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31516.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: Here's the data, where's the story?",
+          "speakers": "David Barer, KXAN News; Lori Jane Gliha, Scripps News; John Kelly, CBS News",
+          "description": "How do you get from “I got the data” to TV? Three broadcast journalists walk you through every step from getting the data to transforming what you find into an interesting TV story.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31515.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Funding the future of investigative journalism",
+          "speakers": "Eric Ferrero, Fund for Investigative Journalism; Jane Sasseen, McGraw Center for Business Journalism; Jackie Stenson, USC Annenberg Center for Health Journalism",
+          "description": "Tips and tricks from some of the leading journalism foundations on applying to grants. Do's and don'ts of writing an application, creating a budget, being realistic about your impact and more.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31518.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "How to find data on Indigenous communities and what to do when it doesn't exist",
+          "speakers": "Dana Hedgpeth, The Washington Post; Mary Hudetz, ProPublica; Dianna Hunt, ICT (formerly Indian Country Today)",
+          "description": "When we look at the data on Indigenous peoples, including American Indians and Alaska Natives, we are able to see that there is a substantial amount of data from health care to education undercounted and misclassified, often cited as a lack of uniformity on how it's collected over generations by governments. We'll talk about best practices as Indigenous data sovereignty, the idea that Indigenous Peoples should decide how to collect, own, and use their own data, globally gains traction.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31521.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Investigating for-profit health care",
+          "speakers": "Phil Barber, Santa Rosa Press Democrat ; Mary Fricker, RepoWatch; Elizabeth Koh, The Boston Globe; Hannah Levintova, Mother Jones/ Center for Investigative Reporting; Jessica Silver-Greenberg, The New York Times; Katie  Thomas, New York Times",
+          "description": "Health care is a wildly profitable business, accounting for nearly 20 percent of the American economy. In your community there may be companies putting revenue before care. Our panelists have years of experience covering a range of companies, including for-profit (and even so-called non-profit) hospital systems, clinics, behavioral hospitals, elder care facilities like assisted living and memory care, and pharmaceutical firms. We will show you how to find these stories and how to report them out, with lists of story ideas, sources, how to get data and how to find experts who can propose solutions.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31519.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31048.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31049.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31050.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31051.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Investigating war crimes in an active, sealed-off war zone",
+          "speakers": "Yahya Abou-Ghazala, CNN; Kavitha Chekuru, Independent journalist; Hoda Osman, Arab Reporters for Investigative Journalism (ARIJ); Maryam Saleh, Rest of World",
+          "description": "In this panel, journalists will share their experience producing collaborative investigations between journalists inside Gaza and their counterparts outside the war zone. Join this session to learn strategies that journalists can use for verifying on-the-ground critical reporting, and to learn from the panelists' experience covering the war in Gaza.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31522.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Tracking the hundreds of lawsuits filed against the Trump administration",
+          "speakers": "Cam Baker, The New York Times; Seamus Hughes, Court Watch",
+          "description": "We combined scraping, Google Sheets, Slack alerts, the knowledge of an experienced legal reporter and other resources to track the hundreds of lawsuits filed against the Trump administration so far. In this session, we’ll review how we carried out a large-scale reporting project involving the courts.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31520.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "When government data disappears: How to cross-check, preserve, and investigate",
+          "speakers": "Jay Hunter, Hunter Index; Jason Leopold, Bloomberg News; Anna Massoglia, Influence Brief; Michael Nolan, Sunlight Research Center",
+          "description": "From vanishing government websites to manipulated economic data, journalists are facing increasing challenges in verifying official information. This session will cover how to investigate missing or altered government records and ensure the integrity of public-interest reporting. Panelists will discuss how to verify whether government data has been changed or removed, how to find alternative sources when public records disappear, and how to archive and preserve crucial datasets before they become inaccessible. This session is designed for journalists who rely on public records, government websites, or large datasets and need to ensure their information remains reliable and available.",
+          "datetime": "2025-06-19T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31517.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Beyond the Ivies: Major higher ed stories you shouldn’t miss",
+          "speakers": "Meredith Kolodner, The Hechinger Report; Arionne Nettles, Florida A&M University; Chris Quintana, USA TODAY Network",
+          "description": "Universities around the U.S. are facing political scrutiny at federal, state and local levels—affecting nearly every beat in your newsroom. Amid the spotlight on budget cuts and anti-DEI laws, are you missing the stories that may impact your community the most? Come to this panel to learn about the under-covered stories in higher education and how to cover them on your beat. Your viewers, readers and listeners might be shocked to know what's happening at colleges and universities nationwide. This session is sponsored by Lumina Foundation. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31530.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: Make it memorable! Storytelling in investigations",
+          "speakers": "A.J. Lagoe, KARE-TV/TEGNA; Cristin Severance, WRAL; Chris Vanderveen, KUSA-TV",
+          "description": "What makes a broadcast investigation not just good, but unforgettable? This panel dives into the craft and storytelling techniques that elevate powerful broadcast investigations. Learn how to shape complex reporting into stories that resonate and stay with viewers.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31523.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Following the anti-trans federal actions",
+          "speakers": "Gisselle Medina, Fresnoland; Eesha Pendharkar, States Newsroom; Lewis Raven Wallace, Interrupting Criminalization; Adam Rhodes, IRE & NICAR",
+          "description": "As Republican administrations continue attacks on trans people across the country in health care, education, military service and behind bars, reporters need to be ready to cover this far reaching topic with accuracy, nuance, and care. Come to this session to hear how to tackle these important stories, how to push back on rhetoric and euphemism, and how to tell honest, truthful stories about trans people in your communities.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31529.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "From text to TV (and everything in between): How investigative journalists have adapted over the years",
+          "speakers": "Neal Bennett , The E.W. Scripps Company; Laura Frank, Colorado News Collaborative (COLab); Jared Kofsky, ABC News; Anne Ryman, ABC15 Arizona; Olive Talley, Olive Talley Productions LLC",
+          "description": "This moderated conversation will explore the challenges and triumphs that journalists face when they're ready (or forced) to pivot. Panelists will share personal anecdotes that illustrate their experiences, providing insight into the strategies they employ to remain relevant and impactful in an industry marked by rapid change. You'll walk away with practical advice and insights that can benefit aspiring and seasoned journalists alike.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31525.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Investigating climate change",
+          "speakers": "Michael Biesecker, Associated Press; Allison Prang, Freelance journalist; Tracy Wholf, CBS News and Stations",
+          "description": "Learn how to execute climate reporting across any beat in the newsroom, explore how to turn policy and data analysis into visual investigations, and come away with different story ideas to cover climate issues at the national, state and local levels. We'll look at how to cover potential solutions to fight climate change, as well as the obstacles society is facing in trying to decarbonize. Panelists will discuss the current challenges to climate reporting and how to overcome the issue of disappearing datasets to support environmental investigations.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31528.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31044.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Navigating record requests within the criminal legal system",
+          "speakers": "Fola Akinnibi, Bloomberg News; Laura Bennett , The Center for Just Journalism; Ethan Corey, The Appeal; Paige Pfleger, WPLN News and ProPublica",
+          "description": "Impactful reporting on the criminal justice system hinges on a journalist’s ability to access detailed information about the inner workings of that system. This information has always been hard to come by and is only growing more so during a time of declining transparency. In this panel, attendees will have the opportunity to learn from their peers who are experts in obtaining data, court records, and public records from criminal justice agencies and using that information to tell powerful stories about everything from fatal police chases to jail deaths. The panelists will offer concrete recommendations for obtaining records and story ideas worth investigating in attendees' own communities.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31527.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Uncovering hope in hard times: How to strengthen your investigation with a solutions mindset",
+          "speakers": "Ashley Clarke, ProPublica; John Diedrich, Milwaukee Journal Sentinel | Marquette University; Michelle Levander, USC Annenberg Center for Health Journalism; Christiaan Mader, The Current; Raquel Rutledge, The Examination",
+          "description": "Are solutions to the wrongdoings exposed in your investigations often an afterthought? We’ll talk about how reporting out potential solutions at the outset – and connecting early and often in creative ways with those most affected by the issues – will not only increase the odds your stories will prompt real change, but will connect you more deeply to sources with differing viewpoints. (Not easy to do in today's world.) And that's not all! We’ll also show you how this framing can help you build bridges to audiences you’ve struggled to reach.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31524.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31053.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Using open source tools to localize national data",
+          "speakers": "Nicole Lewis, The Marshall Project; Aaron Mendelson, The Trace; Cheryl Phillips, Big Local News at Stanford University; Samantha Sunne, Independent Journalist",
+          "description": "There are a number of national newsrooms and industry organizations that are designing products to support journalists who want to localize various datasets for maximum accountability and community impact. We will gather a few leaders in this space to demo the products they’ve created for local journalists, which include embeddable data graphics, help and research desks, record crowdsourcing and archiving projects, and more.",
+          "datetime": "2025-06-19T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31526.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Audio track: Bringing data and public records to life in audio",
+          "speakers": "Jess Clark, Kentucky Center for Investigative Reporting; Huo Jingnan, NPR; Sukey Lewis, KQED; Halle Parker, Verite News",
+          "description": "The data that journalists work with is often messy, and they rarely provide us with clear-cut or sweeping conclusions. How can we bring complicated numbers, especially in finance and science, to the listeners in a way that makes sense? How can we unearth public recordings that are often never heard? Panelists will share their strategies for breaking down complex concepts, finding the human stories behind the data, and crafting compelling audio narratives with public records.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31537.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: From boring to blockbuster: Tricks and tools to up your visual game",
+          "speakers": "Luke Carter, WANF-TV; Anna Hewson, 9NEWS; Tony Kovaleski, Denver7 News; Joshua Saunders, KSAT-TV",
+          "description": "In this panel, learn about how to make the non-visual story come to life for TV: color grading, editing, After Effects, framing interviews, etc.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31531.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31052.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Covering serial murder, cold cases and missing and unidentified persons",
+          "speakers": "Peter Barth, Bellingcat; Rocío Gallegos, La Verdad Juarez; Lise Olsen, Texas Observer",
+          "description": "Writing about unsolved and complex cases involving missing and murdered people and their killers presents unique challenges. Learn how to use the latest OSINT techniques, obscure archives and intense interviews to dive into these tough stories in the United States - and Mexico.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31538.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Deep dive: Cultivating sources",
+          "speakers": "Olivia Carville, Bloomberg; Corey Johnson, ProPublica",
+          "description": "When it comes to developing and maintaining sources—an intimate, demanding, all-consuming process—two of the best are Olivia Carville and Corey Johnson, reporters who know how to get inside major companies and government agencies, or schools, prisons and churches. They’ll talk about how their backgrounds have helped guide them in cultivating sources with compassion; the art of the cold call; taking care with victims of trauma; building trust; keeping sources on-side; and the good that can come from leaning into your humanity.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31536.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Finding a needle in a haystack: How to manage document-heavy investigations",
+          "speakers": "Andrei Baiu & Amairany Martinez & Chris Miles & Joanne Sprague, Everlaw",
+          "description": "Searching for relevant evidence for a story through a never-ending pile of documents, legal forms, contracts, emails, videos, or cell phone data can be taxing and time-consuming, even for the best investigative teams out there. \n\nThe team at Everlaw will demonstrate their tools to help with automatic transcription of audio and video (think bodycam footage, depositions, interview recordings), making documents text-searchable through optical character recognition, file management tools (like search, labeling, AI summaries), analysis tools (like data viz and topic clustering), and story-building tools (drafting, citations, and AI writing assistance). They'll show how newsrooms like the San Francisco Chronicle, ProPublica and Fast Company uncover key information using their tool.\n\nYou'll also learn about Everlaw’s free offering for journalists, which includes unlimited users, training and support at no extra cost.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31532.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31067.pdf"
+            },
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250619-31068.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Investigating Trump",
+          "speakers": "Hannah  Allam, ProPublica; Josh Dawsey, The Wall Street Journal; Josh Meyer, USA TODAY Network; Ellen Nakashima, The Washington Post",
+          "description": "On this panel, journalists will discuss how to investigate Trump in such turbulent times, where the administration and even the public seem so adversarial to their job. Learn how to investigate the current administration in your city or town.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31533.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Investigating hunger",
+          "speakers": "Ayurella Horn-Muller, Grist; Brett Murphy, ProPublica; Deborah Nelson, University of Maryland; Thin Lei Win, Lighthouse Reports",
+          "description": "Food insecurity in the U.S. is at the highest level in a decade with nearly 14% of households - 47 million people -- struggling to put meals on the table. Nearly 300 million face hunger crises worldwide. This panel will offer ideas, sources, tools and techniques for investigating the political, corporate and climate forces that are driving up hunger locally and globally.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31535.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250619-31031.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Real estate investigations: Covering the government, private sector and private equity sectors",
+          "speakers": "Robert Benincasa, NPR; Gordon Russell, The Boston Globe; Caitlin Thompson, Honolulu Civil Beat",
+          "description": "Learn how public records and data about real estate can fuel your investigations of companies and agencies operating in the home mortgage and commercial property spaces. From foreclosures and contracts to federal programs covering veterans, to private equity transactions that can compromise public services, we’ll decode the jargon, documents and data available for real estate investigations.",
+          "datetime": "2025-06-19T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31534.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "60 opioid settlement (and other public health) stories in 60 minutes!",
+          "speakers": "Drew Hawkins, Gulf States Newsroom; Ed Mahon, Spotlight PA; Aneri Pattani, KFF Health News",
+          "description": "This fast-paced, interactive session will share 30 opioid settlement story ideas and  30 public health reporting angles on other overlooked and urgent issues. You’ll get practical tips on covering high-volume medical marijuana doctors, controversial incarceration programs, and the human toll of the Trump administration’s funding cuts. Whether on a daily deadline or digging into a months-long investigation, you’ll leave with fresh ideas and tools to go deeper.",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31544.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1hlqdzYMzzW391bvRrQT-XGRd1-vE25_9O6A64MGBnyo/edit?slide=id.g2af1554d215_0_65#slide=id.g2af1554d215_0_65"
+            }
+          ]
+        },
+        {
+          "session_title": "Broadcast track: Sourcing in this new \"no comment\" world",
+          "speakers": "Daniela Molina, InvestigateTV/Gray Media; Dannah Sauer, WVUE-TV; Phil Williams, WTVF-TV",
+          "description": "Can't get anyone to talk to you on the record? Reaching out for accountability interviews and getting \"no comment\"...or worse, no response at all? We'll discuss creative ways to make sure your reporting is well-rounded, even if you can't get people to talk to you on camera.",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31539.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Covering corporate behavior: What they do (not what they say) and their big plans for the future",
+          "speakers": "David Armiak, Center for Media and Democracy; Arlene Martinez, Good Jobs First; Nadine Sebai, Freelance",
+          "description": "Companies are great spinning stories that present themselves as heroes. But behind the scenes, their behavior often fails to mirror that reality. Learn how to scour company behavior (on deadline!) using the Violation Tracker database to explore the backgrounds of companies across 450 federal, state, and local regulatory agencies (including EPA, OSHA, state attorneys general offices, etc). And beyond the regulatory landscape — in many agencies rapidly degrading under the new administration – learn how sources and other records can help expose misconduct. Also get info on the states' version of Project 2025, being pushed by the American Legislative Exchange Council (ALEC). Similar to the national Project 2025, the states-level version seeks to, among other things, empower fossil fuel companies, undermine public education, repress voting rights, and more. Journalists are great at exposing the misbehavior of elected officials – walk away with tips on applying that same sharp scrutiny to company leaders. This session is sponsored by Bloomberg. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31543.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Freelancers: Create entrepreneurship systems that work for you",
+          "speakers": "Ann Marie Awad, Institute for Independent Journalists; Rita Harper, Freelance Photojournalist; Carolina Murriel, Freelance Writer and Journalist",
+          "description": "With mass layoffs and an unstable job market, more journalists are freelancing, out of need or by choice – and many are creating their own newsletters or startup businesses. This session will cover how to create systems that take work off your plate! You’ll see a demo of the Institute for Independent Journalists’ interactive online freelance startup guide, which helps answer the key questions for ramping up a side hustle into a full-time business. Panelists will share tools for setting your rate, networking to find great assignments, building relationships with clients, and juggling multiple projects. Participants will leave the session with a slew of new tools and strategies for becoming an emotionally and financially sustainable freelancer.",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31545.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1qyeavNAhlPJldjEbAaECG6zAeTcgviwYRkxP7DGJ6vI/edit?slide=id.g2c02b184f38_2_6#slide=id.g2c02b184f38_2_6"
+            }
+          ]
+        },
+        {
+          "session_title": "Responsibly and creatively reporting on children and teens",
+          "speakers": "Jenn Abelson, Washington Post; Jessica Contrera, The Washington Post; Bennett Haeberle, NBC Chicago, WMAQ-TV; Eli Hager, ProPublica",
+          "description": "Reporting on sources under the age of 18 often requires deep sensitivity, advanced planning and inventive approaches to gathering records. From the child welfare and education systems to the sexual abuse of children by law enforcement to teens in residential treatment facilities and group homes, come learn from a panel of reporters about how to initially approach children and their families as sources; how to make kids feel comfortable in an interview setting; how to navigate issues of consent; how to obtain juvenile court records; where to mine for information on systems charged with caring for kids; and more.",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31542.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31058.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "There’s a disability angle on your beat",
+          "speakers": "Emily Hopkins, Mirror Indy; Jennifer LaFleur, UC Berkeley Graduate School of Journalism; Amy Silverman, KJZZ-NPR",
+          "description": "Get real-world examples of reporting that centers the people with disabilities, rather than writing and reporting around them. This session will be packed with tips and insights to help journalists across beats bolster their coverage of disability-related issues and elevate the voices and needs of this key segment of our communities.",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31541.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Turn your questions into data with an LLM",
+          "speakers": "Diana Dombrowski, Bloomberg Law; Umar Farooq & Gary Harki, Bloomberg Industry Group",
+          "description": "Learn how journalists at Bloomberg Industry Group used a large language model to turn questions into data as part of an investigation showing that voting rights claims dropped following a recent U.S. Supreme Court decision.\n\nThis session is good for people with some experience working with data. Laptops will be provided. You will also need to sign up for a ChatGPT account to participate in the hands-on exercise: https://openai.com/index/chatgpt/",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250620-31001.pptx"
+            }
+          ]
+        },
+        {
+          "session_title": "Vetting the great investigative idea",
+          "speakers": "Bob Blau, Bloomberg; Rose Ciotta, Atlanta Journal-Constitution; Ron Nixon, The Associated Press",
+          "description": "",
+          "datetime": "2025-06-19T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250619-31540.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250619-31030.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "data": [
+        {
+          "session_title": "Behind the story: \"Tráileres, trampa para migrantes” (Cargo trucks: A trap for migrants)",
+          "speakers": "Angela Cantador, Latin American Center for Investigative Journalism (CLIP); Martha Olivia López, ; Brenda Medina, International Consortium of Investigative Journalists; Ronny Rojas, Noticias Telemundo",
+          "description": "This panel dives into the challenges, rewards and lessons of the award-winning collaboration between U.S. and Latin American journalists, which investigated deadly migrant smuggling across Mexico using cargo trucks. Come to learn about how to choose the right partners and how to approach and protect your sources(and yourself) in hostile environments. You’ll also learn about useful tools and strategies to uncover cross-border immigration stories and amplify vulnerable voices in this crucial beat.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31551.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Bridging the newsroom and the classroom: Tackling big projects with student journalists",
+          "speakers": "Kathy Best & Kathy Best, Howard Center for Investigative Journalism, University of Maryland; Brant Houston, University of Illinois at Urba; Maggie Mulvihill, Boston University College of Communication; Brian Patrick O’Donoghue, University of Alaska Fairbanks",
+          "description": "This session is sponsored by Scripps Howard Fund. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31552.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: Consumer confidential",
+          "speakers": "Leah Dunn, WSB-TV ATLANTA; Justin Gray, WSB-TV; Caresse Jackman, InvestigateTV/Gray Media",
+          "description": "In this panel, you’ll hear from experienced consumer investigative journalists and producers. We’ll explore the various ways you can make your consumer investigations impactful. From knowing when a story is a daily turn or a more involved investigation, to showcasing how the nation’s federal consumer protection agencies directly impact your community. We will also discuss how to incorporate solutions-based journalism in your reports and utilize consumer advisors to help make your investigations stronger.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31546.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250620-31007.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Covering the F.A.A.",
+          "speakers": "Cary Aspinwall, The Marshall Project; Kate Kelly, New York Times; Peter Robison, Bloomberg News",
+          "description": "Transportation is always a beat moving but the last year has seen an increase of high-profile crashes, delays and gutting of federal agencies with already shortstaffed departments in the aviation industry. Learn from those who have covered this topic soaring on our news feeds while raising serious questions about public safety and the integrity of the Federal Aviation Adminstration.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31548.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250620-31036.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Disclosing AI: What audiences want and how newsrooms can respond",
+          "speakers": "Joy Mayer, Trusting News",
+          "description": "News consumers want transparency when journalists use artificial intelligence in reporting. Recent survey and interview data from Trusting News shows audiences not only expect AI disclosure but also prefer detailed explanations about how AI was used and which tools were involved. This research also showed audiences are particularly uneasy about AI’s role in data analysis. This session will explore how investigative journalists can meet audience expectations while maintaining trust and credibility. Trusting News will share best practices, newsroom-tested disclosure strategies, and real-world examples of AI transparency in investigative reporting. Attendees will leave with actionable insights on how to effectively communicate AI use, address audience concerns, and ensure human oversight remains central in AI-assisted investigations.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1PR9X8M62mh4SYadKwnRBV7xLS66AQ-iKIJKVPX7005A/edit?slide=id.g301f748d87c_0_0#slide=id.g301f748d87c_0_0"
+            }
+          ]
+        },
+        {
+          "session_title": "Document crowd competition: 40 ideas in 40 minutes",
+          "speakers": "David  Cuillier & Sydney Sims, University of Florida / Brechner Freedom of Information Project; Christina Jedra, Honolulu Civil Beat",
+          "description": "This session invites attendees to compete for prizes for offering the coolest, most unique public records that every journalist should request. Each person gets one minute to come up to the mic and explain their record. The idea will be entered into a list of the screen, and then at the end attendees vote for their favorite. The top three win fabulous IRE merchandise. The 2024 winners, among 37 ideas offered, were Twitter drafts, public official Spotify wraps, and U Visa certification denials.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31549.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250620-31037.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Finding the story: Crime stats",
+          "speakers": "Jill Castellano, The Marshall Project; Maia Rosenfeld, ABC",
+          "description": "There’s a lot of data out there on policing and crime but so much of it is bad for a variety of reasons. In this session we’ll separate the good from the bad and discuss stories just waiting to be written in your community.\n\nBasic knowledge of working with spreadsheets is helpful, but not required. Attendees will need to bring their own laptops (preferably no tablets) for the training.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1yc_oph0K29FvdIer0WqOSdQ9d4Objk5y5bhU9jsCTe0/edit?slide=id.p#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Income inequality:  A force that is tearing our communities apart",
+          "speakers": "Jeff Ernsthausen, ProPublica; Mary Fricker, RepoWatch; Mary Sanchez, Independent reporter ; James Steele, Reporter, Author, Teacher",
+          "description": "In your community, it’s likely that the wealthy are getting richer, leaving the rest of your community behind. Why? Mainly because laws that used to treat citizens equally now favor the rich. In every community we need to be showing how this Gilded Age threatens our nation. Our panelists have years of experience covering this important issue. They will tell you how to find these stories and how to report them out, with lists of story ideas, sources, how to get data and how to find experts who can propose solutions.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31550.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250620-31054.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250620-31065.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250620-31066.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Working with sensitive and hard-to-reach sources",
+          "speakers": "Julie Brown, Miami Herald; Emily Hopkins, Mirror Indy; Judith Matloff, Columbia Graduate School of Journalism; Julie Small, KQED Public Radio; Alissa Zhu, The Baltimore Banner",
+          "description": "A key question in almost every investigation is how to work with potential sources who have vital information – but are reluctant to share it. They may be victims of crimes, incarcerated people, members of marginalized groups, even possible whistleblowers with access to confidential material. How can you earn their trust? And how can you ensure that they are not retraumatized or harmed by helping you? This panel will equip you with the tools to connect with sources in a variety of vulnerable circumstances.",
+          "datetime": "2025-06-20T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31547.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1wczunphr1H3Tsm4HuCv8Fb1auiVDWFV3DVFNGMJC-lE/edit?usp=sharing"
+            }
+          ]
+        },
+        {
+          "session_title": "Bolstering local reporting through collaborations with large newsrooms",
+          "speakers": "Sarah Blustain, ProPublica; Ryan Little, The Baltimore Banner; Ron Nixon, The Associated Press; Cheryl Phillips, Big Local News at Stanford University; Adam Playford, The New York Times",
+          "description": "The outlets represented on this panel all have initiatives designed to support local investigative news. This panel will discuss the different initiatives' aims, approaches, accomplishments, and adversities. Attendees will glean insights into project management techniques and get tips for creating effective, multi-newsroom collaborations. \n\nThis session is sponsored by The New York Times. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31556.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: Collaborating for survival and surviving your collaboration",
+          "speakers": "Jodie Fleischer, Cox Media Group; Cindy Galli, Independent journalist; David Hammer, WWL Louisiana; John Hillkirk, KFF Health News; Kara Kenney, WRTV; Ramon Vargas, The Guardian",
+          "description": "A real honest discussion of the challenges and triumphs of collaborations and how to do it better.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31553.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Covering courts: Free tools & strategies to access records and navigate trials",
+          "speakers": "Jeremy Chase, Davis Wright Tremaine LLP; William Palin, Free Law Project; Frank G.  Runyeon, Law360; Emily  Saul, New York Law Journal/ALM",
+          "description": "Legal reporting has never been more critical. Courts are treasure troves of information, but how do you access all those records and proceedings? We’ll explore free tools, techniques and strategies to overcome obstacles and get the story. You’ll learn how to track cases from afar, combine digital tools with courthouse shoe leather reporting, learn legal arguments and hear about coalition-building strategies you can use to gain access to filings and proceedings in person – even when you’re not welcome.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31554.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1HkzatUCkhsxfuojHquCrZP-fXESh1vJ8ET-LYWL5qEM/edit?slide=id.p#slide=id.p"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1JCJ2rhBA2pZ09yWU_mN5zeMZGZ-yd1wVuv23BvFZw9A/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Covering housing authoritatively: How to expose the unseen challenges of renters",
+          "speakers": "Alejandra Cancino, Injustice Watch; Juan Pablo Garnham, Eviction Lab (Princeton University); Cecilia Reyes, Independent journalist",
+          "description": "One in three U.S. residents is a renter, and the proportion is even bigger among communities of color and low-income families. Yet, reporting on the challenges of these communities is often neglected or falls into the same tropes of landlords versus tenants. How can we continue to move forward through data to build investigations, even when it's difficult to find the right sources? During this conversation, panelists will discuss tools for building nuanced investigations that focus on government accountability. They will also talk about the importance of narrative storytelling and human-centered stories.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31557.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Deep dive: Working as a team: Lessons from a rockstar reporting duo",
+          "speakers": "Robin McDowell and Margie Mason, Associated Press",
+          "description": "Margie Mason and Robin McDowell have been reporting partners for 20 years, helping produce one epic investigation after another, including “Seafood from Slaves,” which led to numerous arrests, the seizure of ships and the freeing of more than 2,000 people. If journalism has a fledgling heir to Barlett and Steele, it could be Mason and McDowell. They’ll talk about what makes their partnership tick; how they regularly swap hats, even though one revels in the Indiana Jones stuff and the other in Robert Caro-level detail and documentation; and how, through it all, they have never once had a fight.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31558.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Heat, floods, cold and fire: Covering the intersection of climate change and incarceration",
+          "speakers": "Keri Blakinger, Houston Chronicle; Alleen Brown, Freelance, Drilled, Eco Files newsletter; Hannah  Riley Fernandez, Center for Just Journalism; Wyatt Stayner, Prison Journalism Project",
+          "description": "Incarcerated people are among the most vulnerable to climate disasters. From extreme heat and cold to hurricanes and wildfires that force chaotic evacuations—or leave people trapped in harm’s way—the climate crisis is exacerbating what are already dire conditions behind bars.\n\nThis panel brings together investigative journalists and editors covering their work on the dangers facing people incarcerated, how climate policy often overlooks incarcerated populations, and the challenges of holding institutions accountable. The panelists will also offer practical guidance on how others can investigate these issues in their own communities—accessing public records, analyzing climate risk data, and centering the voices of incarcerated people and their families.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31560.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "So you think you want to write a book?",
+          "speakers": "Jennifer Hawes & T. Christian Miller, ProPublica; Jerry Mitchell, Mississippi Today; Cheryl W. Thompson, NPR",
+          "description": "Do you have an investigative project you'd like to turn into a book? Are you searching for book ideas and mystified by the world of agents and advances? These reporters-turned-authors share their best advice on developing and selling a book proposal, financing the reporting and writing (we promise brass tacks!), and exploring options like indie publishers, podcasts, and docuseries.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31559.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Web scraping with Python",
+          "speakers": "Janelle O'Dea, Illinois Answers Project",
+          "description": "If you need data that's trapped on a website, writing some code to scrape the page could be your solution. This entry-level class will show you how to use the Python programming language to harvest data from a website into a data file. We'll introduce you to the command line and show you how to write enough code to fetch and parse content on the web.\n\nThis class is programming for beginners. Some basic familiarity with Python and HTML is helpful but not required. You must bring your own laptop (no tablets) to this training, and you'll need a Google account.",
+          "datetime": "2025-06-20T15:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-python-scraping"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/13pGEEwVkPA83E3S4nrE-p4KAXHYLWMVGvvcCmr-jQ6o/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Beyond the investigation: Managing stress, safety & mental wellness",
+          "speakers": "Marissa Evans, Investigative Project on Race and Equity; Marla Jones-Newman, The Center for Investigative Reporting; Gonzalo  Magaña, ABC10/TEGNA ; Judith Matloff, Columbia Graduate School of Journalism; Naseem Miller, The Journalist's Resource; Zack Newman, Freelance investigative data journalist",
+          "description": "Let’s be honest, investigative journalism can take a serious toll. Long hours, emotionally difficult topics, graphic content, public scrutiny, and even safety threats — both online and in person — can contribute to burnout, anxiety, depression, and PTSD. And for newsroom leaders, managers, and editors, the responsibility extends beyond just the stories, it includes caring for the people who report them. Join this candid conversation to learn more about practical strategies for managing stress, setting healthy boundaries, supporting team members, and building safer, more sustainable newsroom cultures.\n\nNOTE: This session will not be recorded, so participants may engage freely (but respectfully) regarding personal situations.",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1ev7m7-sQUPSVBgS0blj84TwRN2ldVpDPgZ_ECLCBPVU/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Broadcast track: \"I don't watch TV news\" How to get your content in front of the next generation of viewers",
+          "speakers": "Ben Bradley, WGN-TV Chicago; Levi Ismail, WTVF NewsChannel 5; Ashlyn Lipori-Russie, Ask Ashlyn; Ted Oberg, News4 NBC Washington",
+          "description": "We know you’ve been told, ‘we need to focus on our younger demos, they’re not watching tv.’  But they are watching news. We’ll prove it to you, give you solutions to stop wasting time and start getting in front of as many people as possible. We’ll (try to) absolve you of your guilt about ‘monetization’ and definitely discuss whether dancing anchor videos are good brand builders for investigative reporters. We guarantee there is something you haven’t heard in this hour, hopefully more than one thing! Come with questions.",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31561.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Data analysis with Python",
+          "speakers": "Sandra Fish, Independent data journalist",
+          "description": "In this session, you'll learn how to analyze data using the popular Python data analysis library pandas. You'll learn about the benefits of scripting your data projects and enough syntax to load, sort, filter and group a data set.\n\nThis class is good for: People who are comfortable working with data in spreadsheets or SQL and want to make the leap to programming. You must bring your own laptop (no tablets) to this training, and you'll need a Google account.",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-intro-to-pandas#"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1YzLoX_u_5Ovv10qn-2fySGm9mfdJhvPXa3kB1TkwjDA/edit?tab=t.0#heading=h.9wujwfs45f8c"
+            }
+          ]
+        },
+        {
+          "session_title": "Exemption redemption: How to overcome public records exemptions",
+          "speakers": "David  Cuillier, University of Florida / Brechner Freedom of Information Project; Gunita Singh, Reporters Committee for Freedrom of the Press; Matt Topic, Loevy + Loevy",
+          "description": "This session provides practical tips for how to overcome the most common exemptions in public record laws, including attorney-client, deliberative process, privacy, trade secrets, investigatory, vague/unduly burdensome, and other legal barriers such as FERPA and HIPAA. Bring up others and stump the experts!",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31565.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250620-31064.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "How to pivot from the newsroom: Reinventing yourself without losing your investigative edge",
+          "speakers": "Elaine Aradillas, independent journalist; Eric Ferrero, Fund for Investigative Journalism; Greg Lee, Loyola University New Orleans; Alain Stephens, Independent journalist",
+          "description": "Burnout, layoffs, or a desire for new challenges can push investigative reporters to consider career pivots—but leaving the newsroom doesn’t mean leaving your skills behind. This session explores how to transform your expertise into new careers, from freelancing and book writing to producing documentaries.",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31563.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Showcase: Reporters in peril over the decades",
+          "speakers": "Richard Behar, Forbes magazine; Rocío Gallegos, La Verdad Juarez; Lise Olsen, Texas Observer; John Quiñones, ABC News; Martin Reynolds, Maynard Institute",
+          "description": "This panel will explore notable cases, from the Arizona Project to the Chauncey Bailey Project, as well as the real, life-threatening work that journalists continue to do. Panelists will examine how the landscape of reporting has evolved while the dangers persist. After all, you can silence the journalist, but the story will live on.",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31564.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "The art of the business investigation",
+          "speakers": "Polly Mosendz, Bloomberg News; Christopher Weaver, The Wall Street Journal; Scott Zamost, CNBC",
+          "description": "From getting CEOs to talk to deep diving into a company, a business investigation has its own sets of challenges. You'll hear from veteran print and broadcast journalists on navigating these challenges and how to turn a tip into a compelling corporate investigation. We will cover how to source up at companies you cover, especially those with NDAs, the aggressive nature of PR in business investigations and how to keep your cool when they are yelling at you and calling your editor as well as front running stories with press releases. This session is sponsored by Bloomberg. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31562.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "The reporter and editor relationship",
+          "speakers": "Matt Apuzzo, The New York Times; Shawn McIntosh, Retired, Atlanta Journal-Constitution; Elaine Teng & Tisha Thompson, ESPN",
+          "description": "How do you get the most out of the best editors? How do you manage to improve your writing even with the less-than-best editors? We'll offer practical tips about enduring the difficult edit, overcoming tension, and getting past the struggles that lead to \"good enough.\"",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31567.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Tracking right-wing influencers and movements",
+          "speakers": "David Armiak, Center for Media and Democracy; Robert Downen, Texas Monthly; Kyle Spencer, The Pro-Democracy Information Lab/Reporting Right",
+          "description": "The 2024 presidential election made it clear: The far right is no longer just ascendant -- it's the beating heart of the Republican Party, and will be a fixture of our politics and newsrooms for years to come. This session will provide a crash course on some of the movement's many factions, including right-wing campus groups, extremist influencers, Christian nationalist lawmakers, and the secretive networks and billionaires fueling them. Panelists will cover the basics -- how to stay safe online, for instance -- while also providing an overview of the ideologies and tactics already reshaping American democracy and politics at every level.",
+          "datetime": "2025-06-20T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31566.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Audio track: Investigative stories you can feel: Engaging audience through voices",
+          "speakers": "Najib Aminy, Reveal; Fernanda Echavarri, Futuro Media / Futuro Studios / Latino USA ; Will James, KUOW; Anna Sussman, Snap Studios at KQED",
+          "description": "Not all investigative journalism has to be dense to be impactful. This panel explores how to craft stories that reveal deep truths while keeping the audience engaged and not overwhelmed. Panelists discuss the art of navigating liminal spaces—storytelling that exists as both hard-hitting exposés and character based narratives—to find nuance, and humanity.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31574.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: The 10 most important lessons I've learned",
+          "speakers": "Eric Flack, WUSA9; Bigad Shaban, NBC Bay Area; Joce Sterman, InvestigateTV/Gray Media",
+          "description": "Investigative journalism is hard. We feel your pain. Sometimes you just need a little motivation, some laughs and a bit of advice gained from the real-life mistakes & lessons from people who’ve been there and survived pretty much anything you can imagine in this business. Join us for IRE Summer School – it’s like regular school, but better - more laid back...and taught by three investigative journalists ready to pass along some of the educational instructions they might have missed the first time around.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31568.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Deep dive: Two reporters talk writing",
+          "speakers": "Pamela Colloff, ProPublica; Hannah  Dreier, The New York Times",
+          "description": "Pamela Colloff and Hannah Dreier are two of investigative journalism’s greatest writers. Their stories are both epic and intimate. They seem always to be in just the right place to capture just the right moment. They’re also huge fans of each other’s work. In this conversation moderated by Louise Kiernan (a third member of the writers’ pantheon), they’ll talk about their approach to stories, the choices they make along the way, and the power of narrative to create change.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31573.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Extracting public records from secretive government agencies",
+          "speakers": "Alejandra Cancino, Injustice Watch; Jason Leopold, Bloomberg News; Matt Topic, Loevy + Loevy; Parker Yesko, The New Yorker",
+          "description": "Three reporters and their lawyer share strategies for steering your FOIAs through the bureaucratic abyss. We’ll help you craft smarter FOIAs, identify when it’s time to sue and whether you can afford to sue (usually you can!), and sharpen your wiles when a lawsuit won’t work. We’ll also show examples of what you can do with all your records when you get a bigger document dump than you ever imagined was possible!",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31571.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Federal decisions impacting your K-12 schools",
+          "speakers": "Ileana Najarro, Education Week; Andy Pierrotti, WANF-TV, CBS ATLANTA; Orion Rummler, The 19th*; Marina Villeneuve, Hechinger Report",
+          "description": "Learn how changes under the Trump administration could impact schools, students, and tax dollars. This rockstar panel walks you through data and resources to explore how federal education policies are impacting immigrants, LGBTQ+ people and students with disabilities. Whether you cover local school districts, or federal education policy, we got you covered.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31575.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "IRE Conversation: Laid off? Find your support system",
+          "speakers": "Janelle O'Dea, Illinois Answers Project; Jonathan D. Salant, Pittsburgh Post-Gazette; Mc Nelly Torres, Independent Investigative Reporter and Editor",
+          "description": "For anyone who has experienced a layoff, it can be so traumatic and devastating as much of our professional identity is interwoven with our personal values and purpose. It can feel like the end of the world but it is not. Come hear from those who have navigated such situations and lived to tell about it.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1-7uPcAf-WuQijTmPlWg41SP8UD4Qkf-ETKzPMnh5dhE/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "The investigative editor’s toolkit",
+          "speakers": "Maud Beelman, Howard Center for Investigative Journalism; Len Downie Jr., ASU Walter Cronkite School; Mark Greenblatt, Howard Center for Investigative Journalism, Arizona State University; Angela Hill, Walter Cronkite School of Journalism; Lauren Mucciolo, Howard Center for Investigative Journalism at Arizona State University; Mark  Rochester, Sarasota Herald-Tribune",
+          "description": "Join this panel of award-winning multimedia investigative journalists who will share essential tips for effective investigative editing and project management. This discussion draws on the new online curriculum from the Howard Center for Investigative Journalism at the Walter Cronkite School of Journalism and Mass Communication at ASU. The series of 12 courses covers every step of the investigative editing process, from helping your reporters hone their investigative story ideas and prepare for key interviews, to directing multimedia productions, bulletproofing, legal review and managing the stress and occasional blowback that goes with investigative journalism.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31572.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Tools and techniques to investigate civilian war casualties from afar",
+          "speakers": "Yousur Al-Hlou, Freelancer; Masha Froliak, The New York Times; Rowan Philp, Global Investigative Journalism Network",
+          "description": "This panel will describe new or newly expanded open source tools such as Airwars, OSMP, and Vantage that can measure civilian deaths and identify accountable parties, while avoiding high costs and safety risks. The panel will also highlight how on-the-ground field reporting in hostile environments can power OSINT-led investigations back in the newsroom, with examples from Ukraine and Gaza.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31570.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Understanding your legal rights when reporting on immigration and deportation",
+          "speakers": "Melissa Del Bosque, Lighthouse Reports; Jennifer Nelson, Reporters Committee for Freedom of the Press; Alejandro Serrano, The Texas Tribune; Gunita Singh, Reporters Committee for Freedrom of the Press",
+          "description": "Reporters Committee is developing a suite of resources for reporters who are covering immigration and deportation to make sure reporters know and understand their rights. This panel will give reporters and editors tools to protect themselves legally when reporting on these issues.\n\nThis session is sponsored by Reporters Committee for Freedom of the Press. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-20T19:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31569.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Audio track: Juggling print and audio investigations (and how to do both, very different things at the same time)",
+          "speakers": "Najib Aminy, Reveal; Laura Greanias, The Seattle Times; Will James, KUOW; Paige Pfleger, WPLN News and ProPublica",
+          "description": "Collaborations between print and audio journalists have generated chart-topping, change-making, award-winning podcasts, vastly magnifying the reach of investigative stories. \n\nThese collaborations have the power to bring stories to life, take listeners inside the reporting process, and explore universal themes unearthed in the reporting. \n\nBut the difference between print and audio storytelling isn't just stylistic; Sometimes these mediums have different aims altogether, and these collaborations force journalists to contend with diverging ideas of \"impact\" and other questions.\n\nIn this panel, you'll hear from journalists who successfully navigated these crosswinds to create print-audio collaborations that have resonated nationally. You'll walk away inspired and equipped to pitch a podcast that draws on the best of each of these mediums.",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31583.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: PIVOT! New market? New station? New role? New challenges.",
+          "speakers": "Shelby Bremer, NBC San Diego; Jatara McGee, WPXI; Charlie Specht, WGRZ-TV (NBC Buffalo)",
+          "description": "",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31576.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Guiding your students through on-campus investigations",
+          "speakers": "Clark Merrefield, The Journalist’s Resource at Harvard Kennedy School; Naseem Miller, The Journalist's Resource; Carmen Nobel, The Journalist's Resource (Harvard Kennedy School); Denise-Marie Ordway, The Journalist's Resource at Harvard Kennedy School",
+          "description": "In communities where local newsrooms are shrinking and disappearing, college journalists are often the ones asking the toughest accountability questions. Join this information-packed session to discover best practices for well-informed campus reporting. This session will help student journalists (and their advisers) produce evidence-based, high-impact investigations on pressing topics like campus crime, immigration enforcement, sports stadium financing and student mental health.",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31582.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Gun violence reporting in the Trump era",
+          "speakers": "Abené Clayton, The Guardian; Alain Stephens, Independent journalist",
+          "description": "Time to get real: Media over the last 30 years is failing, complacency has lost us jobs and public trust, and harmful practices have led us to the very darkest pit of our existence in journalism. Meanwhile Americans die in the dark. It's time to break the cycle.\n\nGun violence coverage on our best days can often be reactive—dominated by mass shootings, political cycles, or other fleeting news moments. But as policies shift, sources disappear, and federal oversight weakens, journalists, particularly the editorial class, need to rethink how they cover guns and the communities affected by them.\n\nThis panel will explore how to find on-the-ground sources when traditional ones disappear, how federal rollbacks affect domestic violence, community safety, and policing, and how to avoid amplifying misinformation in fast-moving coverage. With media sometimes struggling to get gun reporting right in so-called “peace times,” the stakes are even higher in times of increased political instability.",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31578.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "How to report on anti-competitive behavior",
+          "speakers": "James Grimaldi, National Catholic Reporter; David McCabe, The New York Times; Karina Montoya, Open Markets Institute; Leah Nylen, Bloomberg",
+          "description": "From Big Tech to Main Street, companies allegedly use anti-competitive tactics to advantage themselves and hobble their rivals. Both in the U.S. and around the world, governments and people are investigating the dominant roles a handful of companies play in every industry. Hear from journalists who explain the basics of antitrust law, share tips on reporting on complaints of anticompetitive conduct and explain the government antitrust enforcement landscape. They will offer tips on how to develop sources on the competition beat, how to cover antitrust lawsuits and how to find stories from the agencies and courts tasked with enforcing the law. And finally they will offer suggestions about how to engage audiences to care about anti-competitive activities.",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31580.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Hurricane Katrina: Lessons learned, 20 years later",
+          "speakers": "Kathleen Johnston, Arnolt Center for Investigative Journalism at Indiana University; Halle Parker, Verite News; Jessica Williams, The Times-Picayune; Lee Zurik, Gray Media",
+          "description": "Hurricane Katrina irrevocably changed New Orleans. The storm exposed failures in the region's federally designed levee system and changed the way local officials respond to and prepare for disasters. It rocked the city's medical community and raised questions about the ethics in emergencies. The city's recovery from the epic storm was also tainted by corruption. What lessons have local and state leaders learned from the storm and its chaotic aftermath, 20 years later?",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31577.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Investigative reporting can save the journalism industry",
+          "speakers": "Terry Baquet, Verite News; David Boardman, Temple University; Rhiannon Collette, Arnold Ventures; Rufus Friday, Center for Integrity in News Reporting; Marisa Kwiatkowski, Knight Foundation",
+          "description": "We keep saying it — but for it to be true, we must make fundamental, sometimes uncomfortable changes. As Einstein warned, doing the same thing while expecting different results is madness. In this panel, funders and journalists confront the hard truth: audiences have moved on, trust has eroded and the old formulas aren't working like they used to. What are we going to do about it? This session will explore bold approaches to redefining investigative journalism with greater community agency and local impact and will discuss what it's going to take to regain trust — and achieve sustainability. The goal isn't just to survive; it's to thrive for the long term.",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31579.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Working with whistleblowers: Past, present and future",
+          "speakers": "Len Downie Jr., ASU Walter Cronkite School; Ross Garber, The Garber Group LLC; Dana Priest, The Washington Post; Tracee Wilkins, NBC Washington; Lisa Zycherman, Reporters Committee for Freedom of the Press",
+          "description": "This panel will examine the past, present and future landscape of journalists’ use of confidential sources and legal risks and protections for them.\n\nCurrently, the industry is facing heightened challenges as whistleblower protections weaken; what can the past tell us about what might be ahead?\n\nAttendees will learn about the importance of safeguarding sources and the necessity to use good old-fashioned shoe-leather reporting skills that go beyond tools, such as Signal, to protect those who risk their careers for the sake of transparency and accountability. \n\nYou'll walk away with a better understanding of how to navigate these complexities from those who have been doing it for decades and ensure critical information flows despite the mounting pressures.",
+          "datetime": "2025-06-20T20:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31581.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Audio track: Should your story be an audio documentary? Long-form narrative for national audiences",
+          "speakers": "Rachel B. Doyle, Wondery; Kate Howard, khoward@revealnews.org; Katie Simon, NPR; Ike Sriskandarajah, This American Life",
+          "description": "It's tempting to look for a long-form podcast in every investigation. But what are the elements of a great investigative podcast that resonate with a national audience? Editors and producers from Wondery, Reveal, This American Life and Embedded share their strategies for story selection and what their newsrooms look for in the stories they pursue.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31586.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/18JDnGvDF9NuK46WQXhuyOtE8Vx1Qqhk-ow-DsO8T0Zo/edit?tab=t.0"
+            },
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1iH0ueDQAKGE9lxNEaT4aFhxl_ImzvXBUDfcT6GTmX94/edit?slide=id.p#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Broadcast track: Me, myself & I-Team: Uplevel your investigation with or without a photographer",
+          "speakers": "Ashley Graham, KSLA-TV; Melanie Woodrow, KGO",
+          "description": "Small newsrooms often don't have a designated investigative reporter, but that doesn't mean they can't do great investigative work.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31584.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Covering immigration on any beat",
+          "speakers": "Alfredo Corchado, Puente News Collaborative; Kristian Hernandez, The New York Times; Mary Sanchez, Independent reporter ",
+          "description": "Covering immigration can be daunting, especially for those unable to keep tabs on the ever-changing policies or latest headlines. This class is for anyone interested in covering immigration beyond the border wall. In this session, you will learn to use public datasets to help find local, state and national stories about missing migrants, work visas and court challenges to immigration policy. We will also spend some time talking about best practices for covering the immigrant community.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31591.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Finding stories hidden in your local government’s meeting agenda",
+          "speakers": "Kate Huangpu, Spotlight PA; McKenna Oxenden, independent journalist; Mark  Puente, The Marshall Project",
+          "description": "Learn tips and tricks for uncovering interesting stories and sources through local government meetings. Panelists will discuss how they uncovered compelling stories by following local government public meetings. Whether you're monitoring committee hearings in the state legislature, regularly attending your local government's city council or commissioners court, or examining how agencies oversee police departments, this session will help you identify newsworthy developments, pinpoint unique accountability stories, discover new sources, and track issues that matter to your community.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31587.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250620-31039.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Reporting on mass shootings, responsibly",
+          "speakers": "Manny Garcia, Independent journalist; Natalia Martinez, GRAY TV; Naseem Miller, The Journalist's Resource",
+          "description": "This panel will talk about how to navigate reporting on such a large-scale tragedy. Some of the topics will include the contagion effect and how your reporting may or may not contribute to the described phenomenon. We’ll discuss what we’ve included in our coverage and what we haven’t and the process by which we came to those conclusions. Panelists will also discuss lessons learned from covering such events.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31588.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Reporting on stigmatized public health issues",
+          "speakers": "Terri Langford, The Texas Tribune; Shefali  Luthra, The 19th; Amy Silverman, KJZZ-NPR",
+          "description": "Stigma and shame often prevents treatment for public wellness issues like substance abuse, mental health, HIV/AIDS, and financial instability. This panel provides insight and best-practices when covering these stigmatized topics, as well as the importance of understanding the role of \"culpable control\" in storytelling and the role the media plays in access to care.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31590.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Spinning story gold from piles of data and docs",
+          "speakers": "Jason Grotto, Bloomberg News; Ivana Hrynkiw, AL.com; Craig Lyons, Arnolt Center for Investigative Journalism; Taylor Mirfendereski, Independent journalist ",
+          "description": "No matter how powerful our findings from data and documents, we still need people to propel our story. We’ll show how you can dive into data, docs and other troves of records to find them. We’ll also touch on the needs of different media, showing, for example, how the right character for print might be the wrong character for TV.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31589.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250620-31021.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Tracking prices and stock in the wake of economic uncertainty",
+          "speakers": "Jennifer Burns, Bright Data; Alexander Cohen, Independent consultant",
+          "description": "Swift changes in policy and reactions resulted in massive price hikes, but are more coming? Industry experts also warned about impacts on the supply chain- are we on our way to empty store shelves 2.0? In this session, we’ll look at available data and resources to track this and explain how policy is impacting your audience. \n\nThis session is sponsored by Bright Data. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-20T22:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250620-31585.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/e/2PACX-1vQn30E4eiy8bUv4KFz99QsidjyWM6mb7IGt-sUoVL22EAtS-AkUbnXTTpa_Cb9zWYCQIcWkiC6IhLGZ/pub?start=false&loop=true&delayms=5000#slide=id.p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "data": [
+        {
+          "session_title": "Audio track: Driveway moments: Crafting stories that stop listeners in their tracks",
+          "speakers": "Lauren Chooljian, New Hampshire Public Radio; Meribah Knight, Nashville Public Radio; Julieta Martinelli, Futuro Media/Futuro Studios; Paige Pfleger, WPLN News and ProPublica",
+          "description": "Investigative journalism meets powerful storytelling in this panel designed for audio creators aiming to create those unforgettable \"driveway moments\"—when listeners can’t turn off the story even after arriving at their destination. Panelists will explore how to build suspense, evoke emotion, and connect with audiences on a deeply personal level while staying true to the investigative rigor. From scene-setting to pacing, attendees will gain practical strategies for turning complex investigations into gripping, memorable audio experiences.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31595.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Belonging under fire: In an era of backlash against diversity, equity, and inclusion efforts",
+          "speakers": "Manny Garcia, Independent journalist; Marla Jones-Newman, The Center for Investigative Reporting; Denise-Marie Ordway, The Journalist's Resource at Harvard Kennedy School; Martin Reynolds, Maynard Institute",
+          "description": "Belonging Under Fire: In an era of backlash against diversity, equity, and belonging efforts—both inside newsrooms and in the broader society—how can investigative journalists deepen their own internal cultures while sharpening their external reporting on systems of exclusion? This panel explores how newsrooms can stay committed to equitable hiring and retention while also elevating stories about the erosion of civil rights, attacks on marginalized communities, and systemic barriers to truth-telling. How do we sustain equitable practices in our own newsrooms amid legal, political, and institutional resistance? How do we rebuild trust with communities whose lives and truths are too often overlooked or extracted? This session explores how a deep commitment to belonging—internally and externally—can make investigative journalism more ethical, impactful, and trusted. Panelists will examine how relational journalism practices and inclusive newsroom cultures together fuel more nuanced investigations and broader democratic participation. This session is presented in partnership with the Maynard Institute.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31593.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: Visual data on deadline",
+          "speakers": "Robin Carter, KXAS NBC 5; Ryann Grochowski Jones, ABC News & Owned Stations; Aubry Killion, WDSU-TV",
+          "description": "Real-world examples and tools to quickly scrape data and create animated interactives for TV and Digital -- on deadline.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31592.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Ethically covering the impact of abortion bans",
+          "speakers": "Ziva Branstetter & Cassandra Jaramillo, ProPublica; Eleanor Klibanoff, The Texas Tribune; Shefali  Luthra, The 19th",
+          "description": "Twelve states have banned abortion and the federal government is eyeing unprecedented action to take those policies nationwide. On this panel, we'll help you understand how to cover the impact of these bans on real people, from women with complicated pregnancies, families who have lost loved ones, doctors facing pressure from their institutions and people who are being criminalized for performing or receiving care. Leave this panel with tangible tips on ethically approaching these thorny stories.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31599.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31032.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Investigating the impact of alternative energy",
+          "speakers": "Annie Burns-Pieper, Inclusive Development International/Freelance; B. Toastie  Oaster, High Country News; Sheridan Prasso, Bloomberg",
+          "description": "As the world races to decarbonize, demand for minerals like lithium, cobalt, and copper is surging—fueling a global mining boom. Large-scale wind and solar farms are also expanding rapidly, often with significant impacts on local communities and ecosystems. Much of this new development, both in the U.S. and globally, is happening on the lands of Indigenous Peoples and other marginalized groups, raising urgent questions about environmental justice and corporate accountability. This session will offer investigative reporters practical tools for covering the energy transition: how to connect with affected communities in the United States and internationally, trace supply chains to link harmful projects to major brands, and hold corporations and governments to account.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31598.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Lights! Camera! Investigation!",
+          "speakers": "Jennifer Forsyth, The New York Times; Elizabeth Koh, The Boston Globe; J. David McSwane, ProPublica",
+          "description": "The panelists want to invite the audience to join us in exploring the ways that novels and movies can help with structuring narrative investigations and getting past writing obstacles. The panelists will show clips of films or play snippets of recorded novels that served as creative fodder for powerful journalistic stories. The audience is encouraged to bring their own examples of movies, novels or short stories that helped in developing an investigative story. At the end we’ll compile a group list.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31597.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250621-31018.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Navigating interviews on sensitive topics and in challenging settings",
+          "speakers": "Lauren Caruba, The Dallas Morning News; Greg Fisher, CBS News 48 Hours; Kelly Garcia, Injustice Watch; Neal Morton, The Hechinger Report",
+          "description": "Effective interviewing is crucial to impactful journalism, but these interactions can quickly become fraught in environments where sources are vulnerable or institutions are opaque. We'll teach you how to navigate these obstacles across different beats and communities, including in jails and prisons, child detention centers, indigenous communities and medical settings.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31594.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31038.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Unsung documents",
+          "speakers": "James Grimaldi, National Catholic Reporter; Cheryl W. Thompson, NPR",
+          "description": "Veteran investigative reporters reprise a classic panel and list obscure but powerful documents that anyone can use to turbocharge a project or bulk-up daily beat coverage. They also provide practical guidelines for unearthing, scrutinizing, managing and cross-referencing routine documents to unleash their full investigative power.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31596.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1SG1DbLsGThUZeWEM6iZgu_391IbJgyR4mEyF50rrBsE/edit?slide=id.g30c13843023_0_0#slide=id.g30c13843023_0_0"
+            }
+          ]
+        },
+        {
+          "session_title": "Using OpenRefine, a power tool for cleaning data",
+          "speakers": "Christian McDonald, University of Texas at Austin",
+          "description": "Learn how to use OpenRefine, a powerful tool for quickly cleaning up dirty data. You'll learn about faceting, simple clustering, applying common data transformations and more.\n\nThis session is good for people with basic experience working with data. Laptops will be provided.",
+          "datetime": "2025-06-21T14:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://utdata.github.io/openrefine/"
+            }
+          ]
+        },
+        {
+          "session_title": "A year in local investigations: Watchdog story ideas",
+          "speakers": "Bethany Barnes, Tampa Bay Times; Joey Cranney, The Times-Picayune | The New Orleans Advocate",
+          "description": "Learn new and old tricks from the stories and reporters featured in the Local Matters newsletter, which spotlights a selection of great local watchdog journalism every Sunday. By showcasing a year of great work by radio, TV and newspaper reporters, we'll share tactics and tips for digging deep into stories at your local media outlet.",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31603.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250621-31040.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Audio track: “Getting to yes” with NPR’s Embedded: Writing the perfect podcast pitch",
+          "speakers": "Addie Lancianese & Katie Simon, NPR; Luis Trelles, NPR’s Embedded Podcast",
+          "description": "You’ve been crunching the numbers and following the paper trail for years. You’re confident that your investigation is going to reveal something new, and you think it’d make a great narrative podcast series. In a crowded industry, how do you catch the ear of the people who can help you do it?\n\nNPR’s Embedded team will help you tell the story of your story. In this interactive session, we’ll dive into the essential elements we look for in serialized podcasts, teaching you how to identify compelling characters, formulate sticky questions and create narrative momentum. Along the way, you’ll learn how to pitch Embedded — NPR’s home for ambitious, deeply reported documentary series.",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31601.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31056.pdf"
+            },
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250621-31057.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Broadcast track: Art of the interview",
+          "speakers": "Scott Friedman, NBC 5 Dallas-Fort Worth; Andy Pierrotti, WANF-TV, CBS ATLANTA; Darcy Spears, KTNV (ABC Las Vegas)",
+          "description": "How to get the best story and emotion from your interviewee.",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31600.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "How to write character-driven features about climate change and the environment",
+          "speakers": "Adam Mahoney, Capital B; Naveena Sadasivam & John Thomason, Grist; Boyce Upholt, freelance writer",
+          "description": "There may be no topic in contemporary journalism more dauntingly abstract than climate change: Carbon emissions are invisible and impersonal, and even though their consequences are increasingly apparent in the environment around us, the link between those effects and human action is frustratingly opaque. However, the scale of the challenge requires journalists to find ways to connect this seemingly overwhelming process to recognizable human dilemmas and conflicts. This panel discusses the ways that reporters can center human (and non-human) drama to better illuminate contemporary environmental dilemmas.",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31606.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31045.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Leveraging AI to enhance political accountability",
+          "speakers": "Matt DeFour, Wisconsin Watch; Justen Fox, American Journalism Project; Chandran Sankaran & Robyn Sundlee, Gigafact",
+          "description": "How can AI be used to hold politicians accountable for their promises, claims and speech? This session will share the findings of a landscape study on how AI is being used by journalists around the country today. We will demonstrate one of the tools that has been leveraged by Wisconsin Watch and others—Gigafact Parser, a shared database for journalists that summarizes and analyzes audio and video records of politicians’ speeches. Attendees can expect to learn about Parser and other cutting-edge tools, hear case studies for their use, and get a better understanding of the state of AI in journalism.",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31604.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Me Too isn’t over: Lessons from both sides of sexual harassment and violence investigations",
+          "speakers": "Cara Kelly & Olivia Messer & Leslie Rangel, The Barbed Wire",
+          "description": "What have we learned since the Me Too movement reached a zenith in 2017? For starters, sexual misconduct is everywhere (including the journalism industry) and requires diligent and trauma-informed reporting. This panel will cover hard-learned lessons from eight years of reporting and editing sexual misconduct investigations — and from unexpectedly finding ourselves as sources on the other side. We’ll cover the ways we still get this reporting wrong, from pushing traumatized sources too hard to go on-record, to discounting nontraditional records like journal entries or social media messages, to the he-said-she-said of it all. And, we’ll finally put to rest the notion that lived experience is a disqualifier for journalists covering this topic.",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31605.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "SHOWCASE: Finding inspiration in the face of change",
+          "speakers": "Keri Blakinger, Houston Chronicle; Len Downie Jr., ASU Walter Cronkite School; David Fahrenthold, The New York Times; Kevin Merida, ; Lea Thompson, Retired - NBC News ",
+          "description": "The journalism industry has faced a tremendous amount of challenges and changes. How does investigative journalism persevere — and grow?",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31602.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Strategies for investigating offshore companies",
+          "speakers": "John Dell'Osso, Platform to Protect Whistleblowers in Africa; Douglas Gillison, Reuters",
+          "description": "This hands-on session will show you how to use publicly available information to identify who owns and benefits from companies that are set up in jurisdictions with comprehensive corporate secrecy. In an era of increasing transnational corruption, being able to publicly expose who is behind a company and the deals in which they participate will be critical for accountability journalism. While having a leak or an inside source that exposes this information would be ideal, this is not something we can rely on and there are other approaches. This training will draw from years of experience piercing the veil around such secretive companies.\n\nThis session is good for all levels! Attendees will need to bring their own laptops (preferably no tablets) for the training.",
+          "datetime": "2025-06-21T15:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31035.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Audio track: Evolving narratives in audio storytelling about crime",
+          "speakers": "Nicole Dungca, The Washington Post; Sukey Lewis, KQED; Julieta Martinelli, Futuro Media/Futuro Studios; Parker Yesko, The New Yorker",
+          "description": "Journalists hate the term \"true crime.\" But true crime podcasts have captivated audiences, and the genre is evolving beyond its traditional confines. This panel explores how investigative journalists and storytellers are redefining true crime by focusing on systemic issues, deeper narratives and ethical storytelling. Panelists will share their experiences crafting compelling audio that goes beyond \"whodunit,\" balancing audience engagement with sensitivity, accuracy and accountability. Attendees will gain insights into innovative reporting techniques, narrative structure and the ethical dilemmas of audio storytelling in this increasingly popular medium.",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31608.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: Secrets for success: IRE Award winners show how to elevate your investigation",
+          "speakers": "Amy Davis, KPRC 2 News; Melissa Del Bosque & Jack Sapoch, Lighthouse Reports; Jeremy Finley, WSMV-TV; Andrea Slaydon, KPRC-TV, NBC Houston",
+          "description": "Deep Dive for IRE Award Winners - Video",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31607.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1AZJGNo38WK_PM5yBGQGinjfVxKkegdeN6DdXibzzwk0/edit?tab=t.0&usp=gmail"
+            }
+          ]
+        },
+        {
+          "session_title": "Crowdsourcing data for your next investigation",
+          "speakers": "Cassandra Garibay, ProPublica; Sergio Olmos, CalMatters; Leon Yin, Bloomberg News",
+          "description": "This panel will showcase three investigations built around crowdsourced data, with an emphasis on the tools that you can use for your next big story. \n\nWe will share Bloomberg News' reporting on how Uber and Lyft “locked out” drivers from work in order to game the city’s minimum wage law. Bloomberg News built an automated WhatsApp tipline that circulated to drivers across New York City to crowdsource over 7,000 screenshots of lockouts from nearly 900 drivers. \n\nReporters will discuss using social media videos to trawl for tips on immigrant raids and building intake forums to standardize tips from sources.\n\nWe will share tips on how to maximize participation from sources, validate messy user-submitted data, and how to combine shoe-leather reporting with the affordances of automation.",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31610.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Deep dive: Two friends on what they’ve learned along the way",
+          "speakers": "Ken Armstrong, Bloomberg News; Ginger Thompson, ProPublica",
+          "description": "Ginger Thompson and Ken Armstrong go way back. Both longtime investigative journalists, their resumes include Pulitzers, Peabodys, Polks. They worked together at ProPublica. And the Chicago Tribune. And, four decades ago, they worked together at their college newspaper, the Purdue Exponent. (Their staff was quite something. The cartoonist went on to co-write and co-direct Pixar’s “Up.”) They’ll talk craft, lessons learned, how to do stories that make a difference, how to grow and keep growing—and what they owe to their college paper.",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31609.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "How student journalists are leading real-world investigative reporting across the U.S.",
+          "speakers": "Lee Ann Anderson, University of Florida; Christopher Drew, Louisiana State University; Sarah Gamard, Center for Community News; Rick Hirsch, University of Florida College of Journalism and Communications",
+          "description": "This panel will showcase student-led investigative reporting with real-world impact, from holding some of the most powerful in the state accountable to uncovering new information about unsolved civil rights murders. Faculty and students involved in this work will talk about the do's and don'ts of relying on students to lead investigative work, as well as what they are actually able to accomplish.",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31614.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1a_CYIqWPR0X5m59C_q5I6tYEXmdn1znCfuxEwR_VgLc/edit?usp=sharing"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31047.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "How to background people in an hour",
+          "speakers": "Michael Biesecker, Associated Press; Jennifer Gollan, San Francisco Chronicle ; Yami Virgin, KABB WOAI",
+          "description": "Whether covering a mass shooting or a political scandal, reporters need to know how to thoroughly and quickly background people and companies involved in breaking news events and long-term investigations. In this panel, journalists will share concrete tips on how to mine social media accounts, maximize Nexis searches, unearth public records, find friends and relatives and turn hunches into distinctive stories.",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31613.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Staying alive: Inside secrets on how to thrive through job moves, layoffs and newsroom drama",
+          "speakers": "Daphne Duret, The Marshall Project; Larry Graham, The Diversity Pledge Institute",
+          "description": "In this discussion and Q&A, Larry Graham will share some of his experiences placing journalists in some of the top newsrooms in the country and offer insights on topics like negotiating severance, navigating career pivots, making the most out of a job or promotion offer and even leveraging multiple offers for the best deal possible. Whether you've just been fired, laid off, or you’re interested in taking the next step in your career, these are answers you won’t hear anywhere else.",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31612.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Writing short: Narratives don't have to be long!",
+          "speakers": "Walt Bogdanich, The New York Times; Jenifer McKim, GBH News; Robbie Morganfield, Ida B. Wells Society for Investigative Reporting",
+          "description": "Well-crafted narratives help engage readers in investigative reports that convey complex information. Compelling narratives don't need to be 4,000 + words.  We explain what you need -- and don't need -- to tell a story in fewer words.",
+          "datetime": "2025-06-21T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31611.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31033.pdf"
+            },
+            {
+              "label": "Slide",
+              "url": "https://resources.ire.org/tipsheets/20250621-31034.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Audio track: Editing the investigative podcast",
+          "speakers": "Kate Howard, khoward@revealnews.org; Brendan McCarthy, The Boston Globe; Peniley Ramírez, Futuro Media",
+          "description": "Experienced editors share their best tips on deciding when to pursue long-form audio stories, developing story arcs that grip listeners and guiding your team through creating a revelatory and impactful podcast.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31619.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1l_TYFUSusVzoIdM6NydiE0IdPGJ-Cwj6UptaPrNh9MI/edit?slide=id.p#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Automating your beat",
+          "speakers": "Jill Castellano, The Marshall Project",
+          "description": "Have you ever encountered a document that's difficult to search or a collection of documents containing tables that you want to extract and analyze? Join this session to learn how you can extract data from handwritten reports and tables buried in PDFs, uncover patterns in extensive document sets using regular expressions and AI tools, convert emails into searchable PDFs, monitor local government websites for real-time changes and much more. \n\nThis session is good for beginners and people interested in extracting data from documents. Attendees will need to bring their own laptops (preferably no tablets) for the training.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1BgFo-yB6RZDHnon42OxC0m4mw8JOZUjXXlAIXVXyFh8/edit?slide=id.g33d01127dae_0_158#slide=id.g33d01127dae_0_158"
+            }
+          ]
+        },
+        {
+          "session_title": "Broadcast track: AI AI AI: Three fakes and a real",
+          "speakers": "Jamie Grey, InvestigateTV; Andrew Lehren, Craig Newmark Graduate School of Journalism at CUNY; Rhona Tarrant, CBS News",
+          "description": "Real life examples to protect you from reporting (or sharing) misinformation.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31616.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Covering economic development incentives: What it really means to give companies public dollars",
+          "speakers": "Paula Gardner, Bridge Michigan; Arlene Martinez, Good Jobs First; J. Dale Shoemaker, Investigative Post",
+          "description": "When the Washington Post reported Elon Musk's companies have received at least $38 billion in economic development subsidies, grants, and loans, it provoked some uproar in light of Musk's allegations of government overspending. But Musk is just one of many CEOs who have benefited from large subsidy packages given in the name of economic development. In this session, learn how to find out what companies are getting incentives (with the help of Good Jobs First's Subsidy Tracker and other public financial documents), the impact to public budgets, how to make sense of \"economic impact\" reports, and how to dig into deals to be able to answer - are the deals, which involve turning over public money to private companies, worth it?",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31618.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Covering science in the political spotlight",
+          "speakers": "Jen Christensen, CNN and NLGJA; Elena Renken, SciLine; Lisa Song, ProPublica; Alison Young, Independent journalist",
+          "description": "In the fast-changing policy landscape of 2025, government officials have distanced scientific evidence from political decision-making and frequently ignored scientific consensus. Misleading claims about issues ranging from fluoridating water to vaccine safety to climate change impacts are drawing scientific evidence into the spotlight, and this controversy warrants deeper reporting to get to the gist of the evidence. Speakers will explore how they've investigated science at the center of political controversy, and give concrete advice on how to cut through political cross-talk with evidence, unearth the interests at play in these controversies, and portray complex evidence clearly for their audiences.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31623.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Deep dive: Dealing with pushback",
+          "speakers": "Lauren Chooljian, New Hampshire Public Radio; David Enrich, The New York Times",
+          "description": "David Enrich’s new book, “Murder the Truth,” details how the powerful—billionaires, politicians, corporations—use litigation and threats to stifle reporting that could hold them accountable. Enrich will talk with Lauren Chooljian, to which a chapter of his book is devoted. Chooljian was subjected to vandalism and threats while investigating sexual misconduct; four men were ultimately convicted of criminal charges in connection with a campaign to silence her station’s work. They’ll discuss the intimidation tactics being used against journalists, and what reporters and editors (and their lawyers) can do when faced with them.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31617.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "How to investigate digital threats",
+          "speakers": "Anna Massoglia, Influence Brief; Craig Silverman, Indicator",
+          "description": "How to investigate digital threats (disinformation campaigns, online scams, harassment, and anonymous hate speech websites), and expose the bad actors behind them. In this panel, leading media manipulation journalists will share effective tips and easy-to-use tools to expose this sinister cyber world.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31622.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Investigating DOGE",
+          "speakers": "Sophie Alexander, Bloomberg News; Sophia Cai, Politico; David Fahrenthold, The New York Times; Jenna McLaughlin, NPR; Annie Waldman, ProPublica",
+          "description": "Elon Musk has said that the Department of Government Efficiency, also known as DOGE, is a transparent cost-cutting government initiative, but its inner workings have largely been opaque. What is DOGE? Who is DOGE? These journalists have been working to uncover the actions of the federal initiative, as well as its impact, and will share tips on how national, local and beat reporters can cover DOGE.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31620.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Master class: Under pressure: Real life in real time with breaking news",
+          "speakers": "Stephen Stock, WVUE Gray TV",
+          "description": "One of the hottest sessions at every IRE Conference! How would you and your newsroom fare in digging out little-known facts and information under the pressure of a breaking news deadline? One of the best ways to get better is to practice.\n\nThis is a real-life scenario where you can learn to break news without leaving your computer. The skills learned in this session can also be used for turning daily general assignment stories when there’s not breaking news. This session regularly fills up and the tipsheet that comes with it is in high demand. If you're interested, get there early to get a seat.\n\nPreregistration is required and seating is limited.",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31027.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31028.pdf"
+            },
+            {
+              "label": "Link List",
+              "url": "https://resources.ire.org/tipsheets/20250621-31029.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "What the Real Housewives can teach you about investigative journalism",
+          "speakers": "Cary Aspinwall, The Marshall Project; Ko Bragg, ; Marissa Evans, Investigative Project on Race and Equity; Arionne Nettles, Florida A&M University",
+          "description": "What can we learn about investigative reporting from the Real Housewives franchise? Plenty. Preparing for accountability interviews, recognizing and dismantling bias in storytelling/narrative perspective — and how to bring the receipts. Get ready for the reunion!",
+          "datetime": "2025-06-21T20:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31621.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Audio track: Carving out space for local audio investigations",
+          "speakers": "Alex Hall, KQED Public Radio; Anna King, Northwest Public Broadcasting; Paige Pfleger, WPLN News and ProPublica; Camille Phillips, Texas Public Radio",
+          "description": "When you’re a reporter in a small, local newsroom it can be hard to find time to work on investigative projects. On this panel, four local audio reporters with experience on investigative projects will talk about how they managed to carve out space and energy to chip away at investigations while juggling daily news and still being present in their newsrooms. This panel will be helpful for any local reporter – in audio, or not! -  who wants to make the jump into investigative journalism.",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31625.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Broadcast track: Lightning Talks",
+          "speakers": "Dawn Clapperton, NBC6 South Florida; Greg Fisher, CBS News 48 Hours; Rick Gevers, Rick Gevers & Associates; Charlie McLravy, Inside Edition; Nate Morabito, WCNC Charlotte; Leslie Rangel, The Barbed Wire; Dorothy Tucker, WBBM-TV; Katie Wilcox, 12News",
+          "description": "Come to this session to hear rapid-fire lecture from broadcast pros. Moderated by Charlie McLravy; talks will include:\n1 Jailhouse Interviews\n2 How to pitch your investigative story to your managers\n3 Check Your Bias: Tools for Cultural Competency\n4 Tips for Negotiating your new contract \n5 How to win over your Promotions Team - and why it matters\n6 Don't Miss the Moment\n7  Don't forget to decompress! (focus on reporter mental health)",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31624.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Campus wars: Tools & techniques to investigate the battle over higher ed",
+          "speakers": "Torsheta Jackson, Mississippi Free Press; Vimal Patel, The New York Times; Jessica Priest, The Texas Tribune; Joe Stephens, Princeton University",
+          "description": "Trump and his aides are withholding huge sums of money and barring international students from college campuses, aiming to shift the ideological tilt of higher education. Colleges are fighting back in court and in Congress. Documents, data and source work reveal what’s really going on in the trenches.",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31631.mp3",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/14UYfv5hKDqqGE-Fqme1Q_PE3XXKNAADfYvuj0Fw7CM0/edit?slide=id.g36a35812bef_1_71#slide=id.g36a35812bef_1_71"
+            }
+          ]
+        },
+        {
+          "session_title": "Finding and using historical documents in investigative stories",
+          "speakers": "Steve Eder & Cam Rodriguez, The New York Times; Alexia Fernández Campbell, Bloomberg Industry Group; Nadia Hamdan, Center for Investigative Reporting; Mc Nelly Torres, Independent Investigative Reporter and Editor",
+          "description": "Methods from the practices of archivists, librarians, and historians can help journalists surface and use historical documents. In this session, learn about incorporating history into deep-dive stories.",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31626.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "International journalists, American press freedom and what's happening now",
+          "speakers": "Iram Abbasi, Multimedia journalist; Mariana Belloso, Inter-American Press Association / Latin American Network for Journalism in Exile; Kathy Jones, Committee to Protect Journalists; Louise Kiernan, Northwestern University; Lisa Zycherman, Reporters Committee for Freedom of the Press",
+          "description": "On this panel, two international journalists and two press freedom experts will discuss the rapidly increasing threats to independent journalism and how reporters can protect themselves physically, mentally, and digitally, as well as what journalists from the United States can learn from their international counterparts who have worked under repressive and chaotic regimes.",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31629.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Policing by algorithm: Covering AI in law enforcement",
+          "speakers": "Jamiles Lartey, The Marshall Project; Beryl Lipton, Electronic Frontier Foundation; Doug  MacMillan, The Washington Post; Hannah  Riley Fernandez, Center for Just Journalism",
+          "description": "AI is rapidly reshaping policing—sometimes in ways even police themselves don't fully understand. From AI-powered facial recognition leading to wrongful arrests to automated systems drafting police reports, these technologies raise urgent questions about accuracy, bias, and accountability. This panel brings together investigative journalists and researchers who have exposed the risks and real-world consequences of AI in policing. Panelists will offer a behind-the-scenes look at how their investigations came together, and insights/tips for journalists interested in doing this reporting in their own communities.",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31628.mp3",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250621-31006.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Regular expressions: Puzzling out clean data",
+          "speakers": "Christian McDonald, University of Texas at Austin",
+          "description": "Regular expressions are a pattern-matching syntax used in spreadsheets and programming languages, providing a powerful skill to slice, dice and clean up dirty data. They may look intimidating, but they are really just puzzles. We'll learn the fundamentals of \"regex\" to save you time cleaning your next batch of data.\n \nThis session is good for: People who have ever done more than one search/replace actions to clean a data set, or had to split an address, or otherwise want to conquer their fears of regex. Bring your own laptop. We’ll just be using a browser for this hands-on lesson.",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1DvAM4lnGJLefo9skD8GgM-_9S1BEhpjJfV86yhJavI0/edit?usp=sharing"
+            }
+          ]
+        },
+        {
+          "session_title": "Reporting on corporate-driven health crises",
+          "speakers": "Ben Hallman, The Examination; Christina Jewett, The New York Times; Sharon Lerner, ProPublica; Zoya Teirstein, Grist",
+          "description": "From ultra-processed foods and cigarettes to PFAS and air pollution: commercial products and processes are major contributors to disease, death and economic harm. We will share practical approaches to covering industry-driven health crises, with an emphasis on connecting those stories to real people in harm’s way. Topics to include: how industry shapes health narratives, reporting on emerging threats, humanizing climate coverage and – yes – how to approach health reporting in an era of MAHA and regulatory layoffs. You will not leave empty-handed: we will point you to sources, data, story ideas, and more!",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31627.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Telling the human story behind the investigation: Crafting a stand-alone narrative within a global reporting project",
+          "speakers": "Lynette Clemetson, University of Michigan; Nicole Sadek, International Consortium of Investigative Journalists",
+          "description": "In this conversation with 2025 Livingston Award winner for international reporting Nicole Sadek, we’ll explore how to craft a powerful stand-alone narrative that deepens and contextualizes the broader themes of a collaborative investigative series. \n\nWhen the International Consortium of Investigative Journalists, the nonprofit that led the Panama Papers investigation, partnered with 26 media outlets to expose how Western oil companies bypassed laws and ethics to profit from the Kazakhstan-Russia pipeline, reporter Nicole Sadek was asked to continue her team’s research into Berezovka — a now-abandoned village in Kazakhstan ravaged by toxic exposure. She connected with former residents, environmental advocates, and officials from the World Bank and United Nations, and traveled to the village to illuminate the serious health issues suffered by its former residents and the underreported human costs of global industry.\n\nThis session is sponsored by the Wallace House Center for Journalists. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-06-21T21:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250621-31630.mp3",
+          "tipsheets": []
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "data": [
+        {
+          "session_title": "International collaborations for global investigative impact",
+          "speakers": "Amruta Byatnal, Thomson Reuters Foundation/Context; Melissa Del Bosque, Lighthouse Reports; Reed Richardson, Global Investigative Journalism Network; Maryam Saleh, Rest of World",
+          "description": "International investigations are made stronger by partnerships and collaborations that are able to drawn on strengths of different individuals and newsrooms. But these projects can also be fraught with challenges - who owns the investigative tools, who does the writing, whose editing works best? This panel will discuss how to make global investigations work for everyone by sharing examples of what has worked and what hasn’t, and highlighting best practices.",
+          "datetime": "2025-06-22T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31632.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Resilience by design: Mindset interventions for journalists",
+          "speakers": "Aaron  Glantz, Stanford University; Parul Somani, Mindset coach",
+          "description": "Investigative journalist and Stanford fellow Aaron Glantz and mindset coach Parul Somani present a groundbreaking approach to resilience, inspired by successful “cancer mindset” interventions. Learn how reframing adversity can help journalists adapt, build community, and thrive in tough times. Attendees will leave with practical self-reflection prompts and tools to strengthen their mental health so they leave IRE empowered to prevail in tough times ahead.",
+          "datetime": "2025-06-22T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31633.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "The art of fact-checking",
+          "speakers": "Ethan Corey, The Appeal; Mariam Elba, ProPublica; Nina Zweig, Type Investigations",
+          "description": "Many newsrooms don’t spend resources on fact-checking, leaving reporters exposed to potential corrections, public embarrassment, or even litigation. Given the current political climate and the new administration’s aggressive stance toward watchdog journalism, it’s more important than ever to learn how to vet your own work and protect yourself. This session, featuring three longtime investigative researchers, will teach reporters how to approach their reporting with an eye toward fact-checking.",
+          "datetime": "2025-06-22T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31634.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Demystifying crime data: Learning the tools to effectively evaluate crime trends",
+          "speakers": "Jeff Asher, AH Datalytics",
+          "description": "Crime data can be challenging to acquire, analyze, and communicate even in the best of circumstances. In this session, Jeff Asher will discuss the major pitfalls and struggles to effectively incorporating crime data into understanding crime at the local, state, and national levels while accounting for the uncertainty of working with imperfect information. This session will also include discussion of the tools any journalist can use to better use crime data in their reporting.",
+          "datetime": "2025-06-22T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31635.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Developing curriculum for the next generation of journalists",
+          "speakers": "Maud Beelman, Howard Center for Investigative Journalism; Christopher Drew, Louisiana State University; Angela Hill, Walter Cronkite School of Journalism; Jennifer LaFleur, UC Berkeley Graduate School of Journalism; Andrew Lehren, Craig Newmark Graduate School of Journalism at CUNY",
+          "description": "While we often hear that youth is wasted on the young, educators know that it's a two-way street in how we can learn from who we teach. We'll discuss what are our non-negotiables in journalism education and where perhaps we should reframe our thinking in order to prepare the next generation of journalists to do meaningful work with impact and cope with the tumult of the newsroom industry.",
+          "datetime": "2025-06-22T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31636.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Everything you want to know about tracking political influence and money in politics",
+          "speakers": "Soorin Kim, ABC News; Robert Maguire, Citizens for Responsibility and Ethics in Washington (CREW); Anna Massoglia, Influence Brief",
+          "description": "For anyone looking to dive into the world of money in politics, this session is for you! Whether it's corporate influence campaigns, dark money, foreign lobbying or anything in between, we've tracked it. The three panelists are OpenSecrets alumni with at least 30 years of collective experience working with money-in-politics data, documents and other information crucial to reporting on how special interest groups influence policy and shape laws and regulations at the state and federal level. We'll walk through the basics for where to find information and leave plenty of time for questions afterward.",
+          "datetime": "2025-06-22T15:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31637.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Organizing your investigation",
+          "speakers": "Daniela Ibarra, KSAT; Katey Rusch, Investigative Reporting Program",
+          "description": "Whether you use Post-Its, a white board, a spreadsheet or an old-fashioned yellow pad, keeping your head above a flood of information is crucial to your investigation’s success. This session will tap examples for techniques to navigate the key phases of organizing your story in any medium: managing material; pruning and pivoting; and visualizing the story.",
+          "datetime": "2025-06-22T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31640.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "The lasting effects of extreme weather",
+          "speakers": "Keely Arthur, WRAL NEWS; Justin Garcia, Tampa Bay Times; Sam Karlin, The Times-Picayune | The New Orleans Advocate; Gordon Russell, The Boston Globe",
+          "description": "Whether it’s flooding, rising seas or drought, wildfire or uncertain drinking water supplies, each city and state is experiencing the effects of climate change in its own way. But where do you find climate data and narratives, and what’s the best way to tell your city’s climate story? This panel will bring together some of the best reporters and communicators on the climate/weather beat to discuss how they use data, science and lived experience of their sources on the ground as the foundation for reporting that reveals the science behind climate impacts and the people affected.",
+          "datetime": "2025-06-22T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250622-31639.mp3",
+          "tipsheets": []
+        }
+      ]
+    }
+  ]
+}
